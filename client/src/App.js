@@ -80,7 +80,7 @@ class App extends Component {
           return {
             bookId: book.id,
             title: book.volumeInfo.title,
-            authors: book.volumeInfo.authors || "Alex Rosenkranz",
+            authors: book.volumeInfo.authors || "Ernest Hemingway",
             description: book.searchInfo.textSnippet,
             link: book.volumeInfo.infoLink,
             image: book.volumeInfo.imageLinks.thumbnail

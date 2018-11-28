@@ -14,15 +14,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alexrosenkranz/google-books-search.git"
+    "url": "git+ https://jadelet.github.io/googlebook-search/"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alexrosenkranz/google-books-search/issues"
+    "url": "https://jadelet.github.io/googlebook-search//issues"
   },
-  "homepage": "https://github.com/alexrosenkranz/google-books-search#readme",
+  "homepage": "https://jadelet.github.io/googlebook-search/#readme",
   "devDependencies": {
     "concurrently": "^4.0.1",
     "nodemon": "^1.18.6"
